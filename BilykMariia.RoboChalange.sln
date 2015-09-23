@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilykMariia.RoboChalangeOLD", "BilykMariia.RoboChalange\BilykMariia.RoboChalangeOLD.csproj", "{855A11BE-19E1-494A-9145-2D502629E1C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilykMariia.RoboChalange.Test1", "BilykMariia.RoboChalange.Test1\BilykMariia.RoboChalange.Test1.csproj", "{23BEFAF3-3038-4ADF-83F3-07516795F819}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E4D2F584-9C9B-4933-BAA7-6D5BC7CB3B0B}"
+	ProjectSection(SolutionItems) = preProject
+		BilykMariia.RoboChalange.vsmdi = BilykMariia.RoboChalange.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{855A11BE-19E1-494A-9145-2D502629E1C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{855A11BE-19E1-494A-9145-2D502629E1C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{855A11BE-19E1-494A-9145-2D502629E1C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{855A11BE-19E1-494A-9145-2D502629E1C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23BEFAF3-3038-4ADF-83F3-07516795F819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23BEFAF3-3038-4ADF-83F3-07516795F819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23BEFAF3-3038-4ADF-83F3-07516795F819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23BEFAF3-3038-4ADF-83F3-07516795F819}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = BilykMariia.RoboChalange.vsmdi
+	EndGlobalSection
+EndGlobal

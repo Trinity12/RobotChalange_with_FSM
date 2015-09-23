@@ -1,0 +1,8 @@
+C:\Users\lubko\Documents\Mariia\Edu\BilykMariia.RoboChalange\BilykMariia.RoboChalange.Test1\obj\Debug\BilykMariia.RoboChalange.Test1.csprojResolveAssemblyReference.cache
+C:\Users\lubko\Documents\Mariia\Edu\BilykMariia.RoboChalange\BilykMariia.RoboChalange.Test1\bin\Debug\BilykMariia.RoboChalange.Test1.dll
+C:\Users\lubko\Documents\Mariia\Edu\BilykMariia.RoboChalange\BilykMariia.RoboChalange.Test1\bin\Debug\BilykMariia.RoboChalange.Test1.pdb
+C:\Users\lubko\Documents\Mariia\Edu\BilykMariia.RoboChalange\BilykMariia.RoboChalange.Test1\bin\Debug\BilykMariia.RoboChalange.dll
+C:\Users\lubko\Documents\Mariia\Edu\BilykMariia.RoboChalange\BilykMariia.RoboChalange.Test1\bin\Debug\Robot.Common.dll
+C:\Users\lubko\Documents\Mariia\Edu\BilykMariia.RoboChalange\BilykMariia.RoboChalange.Test1\bin\Debug\BilykMariia.RoboChalange.pdb
+C:\Users\lubko\Documents\Mariia\Edu\BilykMariia.RoboChalange\BilykMariia.RoboChalange.Test1\obj\Debug\BilykMariia.RoboChalange.Test1.dll
+C:\Users\lubko\Documents\Mariia\Edu\BilykMariia.RoboChalange\BilykMariia.RoboChalange.Test1\obj\Debug\BilykMariia.RoboChalange.Test1.pdb

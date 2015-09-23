@@ -1,0 +1,11 @@
+E:\BilykM\BilykMariia.RoboChalange\BilykMariia.RoboChalange\bin\Debug\BilykMariia.RoboChalange.dll
+E:\BilykM\BilykMariia.RoboChalange\BilykMariia.RoboChalange\bin\Debug\BilykMariia.RoboChalange.pdb
+E:\BilykM\BilykMariia.RoboChalange\BilykMariia.RoboChalange\bin\Debug\Robot.Common.dll
+E:\BilykM\BilykMariia.RoboChalange\BilykMariia.RoboChalange\obj\Debug\BilykMariia.RoboChalange.csprojResolveAssemblyReference.cache
+E:\BilykM\BilykMariia.RoboChalange\BilykMariia.RoboChalange\obj\Debug\BilykMariia.RoboChalange.dll
+E:\BilykM\BilykMariia.RoboChalange\BilykMariia.RoboChalange\obj\Debug\BilykMariia.RoboChalange.pdb
+C:\Users\lubko\Documents\Mariia\Edu\BilykMariia.RoboChalange\BilykMariia.RoboChalange\bin\Debug\BilykMariia.RoboChalange.dll
+C:\Users\lubko\Documents\Mariia\Edu\BilykMariia.RoboChalange\BilykMariia.RoboChalange\bin\Debug\BilykMariia.RoboChalange.pdb
+C:\Users\lubko\Documents\Mariia\Edu\BilykMariia.RoboChalange\BilykMariia.RoboChalange\obj\Debug\BilykMariia.RoboChalange.csprojResolveAssemblyReference.cache
+C:\Users\lubko\Documents\Mariia\Edu\BilykMariia.RoboChalange\BilykMariia.RoboChalange\obj\Debug\BilykMariia.RoboChalange.dll
+C:\Users\lubko\Documents\Mariia\Edu\BilykMariia.RoboChalange\BilykMariia.RoboChalange\obj\Debug\BilykMariia.RoboChalange.pdb
